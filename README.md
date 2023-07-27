@@ -1,5 +1,7 @@
 # Compound-Interest-Calculator
 Compound interest calculator written in C++
+This was written in the process of learning C++
+(Currently Not Maintained)
 
 ## How It Works
 The compound interest formula: 
