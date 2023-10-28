@@ -59,4 +59,5 @@ int main() {
     cout << "The Effective Annual Rate % Is: ";
     float perc_effective = effective * 100;
     cout << fixed <<  perc_effective << "%" << endl;
+    system("pause");
 }
